@@ -1,0 +1,5 @@
+name: Shieldbreak
+version: '1.0-SNAPSHOT'
+main: me.bluebandit.shieldbreak.Shieldbreak
+api-version: 1.20
+description: Adds a sound for when a shield gets disabled
